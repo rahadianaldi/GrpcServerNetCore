@@ -738,11 +738,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rahad\\source\\repos\\GrpcGreeter\\GrpcGreeter.csproj",
+      "projectUniqueName": "D:\\Kuliah & Kerja\\Semester 7\\EAI\\Tugas M5\\GrpcGreeter\\GrpcGreeter.csproj",
       "projectName": "GrpcGreeter",
-      "projectPath": "C:\\Users\\rahad\\source\\repos\\GrpcGreeter\\GrpcGreeter.csproj",
+      "projectPath": "D:\\Kuliah & Kerja\\Semester 7\\EAI\\Tugas M5\\GrpcGreeter\\GrpcGreeter.csproj",
       "packagesPath": "C:\\Users\\rahad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rahad\\source\\repos\\GrpcGreeter\\obj\\",
+      "outputPath": "D:\\Kuliah & Kerja\\Semester 7\\EAI\\Tugas M5\\GrpcGreeter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rahad\\AppData\\Roaming\\NuGet\\NuGet.Config",

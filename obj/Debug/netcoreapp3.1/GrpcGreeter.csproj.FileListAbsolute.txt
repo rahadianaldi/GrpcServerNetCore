@@ -27,3 +27,32 @@ C:\Users\rahad\source\repos\GrpcGreeter\obj\Debug\netcoreapp3.1\GrpcGreeter.genr
 C:\Users\rahad\source\repos\GrpcGreeter\bin\Debug\netcoreapp3.1\MySqlConnector.dll
 C:\Users\rahad\source\repos\GrpcGreeter\obj\Debug\netcoreapp3.1\GrpcGreeter.csproj.CoreCompileInputs.cache
 C:\Users\rahad\source\repos\GrpcGreeter\obj\Debug\netcoreapp3.1\GrpcGreeter.MvcApplicationPartsAssemblyInfo.cache
+D:\Kuliah & Kerja\Semester 7\EAI\Tugas M5\GrpcGreeter\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Kuliah & Kerja\Semester 7\EAI\Tugas M5\GrpcGreeter\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Kuliah & Kerja\Semester 7\EAI\Tugas M5\GrpcGreeter\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Kuliah & Kerja\Semester 7\EAI\Tugas M5\GrpcGreeter\bin\Debug\netcoreapp3.1\GrpcGreeter.exe
+D:\Kuliah & Kerja\Semester 7\EAI\Tugas M5\GrpcGreeter\bin\Debug\netcoreapp3.1\GrpcGreeter.deps.json
+D:\Kuliah & Kerja\Semester 7\EAI\Tugas M5\GrpcGreeter\bin\Debug\netcoreapp3.1\GrpcGreeter.runtimeconfig.json
+D:\Kuliah & Kerja\Semester 7\EAI\Tugas M5\GrpcGreeter\bin\Debug\netcoreapp3.1\GrpcGreeter.runtimeconfig.dev.json
+D:\Kuliah & Kerja\Semester 7\EAI\Tugas M5\GrpcGreeter\bin\Debug\netcoreapp3.1\GrpcGreeter.dll
+D:\Kuliah & Kerja\Semester 7\EAI\Tugas M5\GrpcGreeter\bin\Debug\netcoreapp3.1\GrpcGreeter.pdb
+D:\Kuliah & Kerja\Semester 7\EAI\Tugas M5\GrpcGreeter\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Kuliah & Kerja\Semester 7\EAI\Tugas M5\GrpcGreeter\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.dll
+D:\Kuliah & Kerja\Semester 7\EAI\Tugas M5\GrpcGreeter\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\Kuliah & Kerja\Semester 7\EAI\Tugas M5\GrpcGreeter\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+D:\Kuliah & Kerja\Semester 7\EAI\Tugas M5\GrpcGreeter\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+D:\Kuliah & Kerja\Semester 7\EAI\Tugas M5\GrpcGreeter\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
+D:\Kuliah & Kerja\Semester 7\EAI\Tugas M5\GrpcGreeter\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+D:\Kuliah & Kerja\Semester 7\EAI\Tugas M5\GrpcGreeter\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Kuliah & Kerja\Semester 7\EAI\Tugas M5\GrpcGreeter\obj\Debug\netcoreapp3.1\GrpcGreeter.csprojAssemblyReference.cache
+D:\Kuliah & Kerja\Semester 7\EAI\Tugas M5\GrpcGreeter\obj\Debug\netcoreapp3.1\GrpcGreeter.AssemblyInfoInputs.cache
+D:\Kuliah & Kerja\Semester 7\EAI\Tugas M5\GrpcGreeter\obj\Debug\netcoreapp3.1\GrpcGreeter.AssemblyInfo.cs
+D:\Kuliah & Kerja\Semester 7\EAI\Tugas M5\GrpcGreeter\obj\Debug\netcoreapp3.1\GrpcGreeter.csproj.CoreCompileInputs.cache
+D:\Kuliah & Kerja\Semester 7\EAI\Tugas M5\GrpcGreeter\obj\Debug\netcoreapp3.1\GrpcGreeter.MvcApplicationPartsAssemblyInfo.cache
+D:\Kuliah & Kerja\Semester 7\EAI\Tugas M5\GrpcGreeter\obj\Debug\netcoreapp3.1\GrpcGreeter.RazorTargetAssemblyInfo.cache
+D:\Kuliah & Kerja\Semester 7\EAI\Tugas M5\GrpcGreeter\obj\Debug\netcoreapp3.1\GrpcGreeter.csproj.CopyComplete
+D:\Kuliah & Kerja\Semester 7\EAI\Tugas M5\GrpcGreeter\obj\Debug\netcoreapp3.1\staticwebassets\GrpcGreeter.StaticWebAssets.Manifest.cache
+D:\Kuliah & Kerja\Semester 7\EAI\Tugas M5\GrpcGreeter\obj\Debug\netcoreapp3.1\staticwebassets\GrpcGreeter.StaticWebAssets.xml
+D:\Kuliah & Kerja\Semester 7\EAI\Tugas M5\GrpcGreeter\obj\Debug\netcoreapp3.1\GrpcGreeter.dll
+D:\Kuliah & Kerja\Semester 7\EAI\Tugas M5\GrpcGreeter\obj\Debug\netcoreapp3.1\GrpcGreeter.pdb
+D:\Kuliah & Kerja\Semester 7\EAI\Tugas M5\GrpcGreeter\obj\Debug\netcoreapp3.1\GrpcGreeter.genruntimeconfig.cache
